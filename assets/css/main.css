@@ -3234,6 +3234,11 @@ input, select, textarea {
 
 			.skill-list-sub-list{
 				display: flex;
+				flex-wrap: wrap;
+			}
+
+			.tool-list{
+				margin-left: 15px;
 			}
 
 		@media screen and (max-width: 736px) {
