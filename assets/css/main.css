@@ -1721,6 +1721,20 @@ input, select, textarea {
 
 		}
 
+		.contact-container{
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+		}
+
+		.contact-list-container{
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+		}
+
 
 
 
